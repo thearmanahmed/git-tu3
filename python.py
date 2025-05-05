@@ -2,4 +2,4 @@ def addition(a, b):
     return a + b
 
 
-print(addition("version", "1"))
+print(addition("version", "2"))
